@@ -1,4 +1,4 @@
 # hello-world
 A new repository
 
-just try typing
+删了一行
